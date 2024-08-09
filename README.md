@@ -1,3 +1,4 @@
+##### [quicktype inside out](https://www.youtube.com/playlist?list=PL_xkZVfmktNxmTSDZUQA46gKSqG8nqIcM)
 ![](https://raw.githubusercontent.com/quicktype/quicktype/master/media/quicktype-logo.svg?sanitize=true)
 
 [![npm version](https://badge.fury.io/js/quicktype.svg)](https://badge.fury.io/js/quicktype)
